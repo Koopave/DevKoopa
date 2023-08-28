@@ -26,6 +26,5 @@ You can contact me on :
 - E-mail : [koopa.tacos@gmail.com](mailto:koopa.tacos@gmail.com)
 - Twitter : [@Koopave](https://twitter.com/Koopave)
 
-I
 
 > "Thanks for reading my README.md."
