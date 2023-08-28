@@ -14,7 +14,7 @@ Here's my projects
 ### [Vanish Plugin](https://github.com/Koopave/vanish-plugin).
 Plugin that allows players to vanish with differents commands.
 
-### [Invsee Plugin](Coming soon)
+### Invsee Plugin (Coming soon)
 
 ## Values
 
