@@ -1,39 +1,31 @@
-# Bienvenue sur le profil de [VotreNom] 👋
+# Hi and welcome to my Github profile! I'm Koopave 👋
 
-## À propos de moi
+## About me
 
-Salut ! Je suis [VotreNom], un passionné de Minecraft et de développement de plugins. Je passe mon temps à créer des plugins pour améliorer l'expérience de jeu de la communauté Minecraft. Mon objectif est de créer des fonctionnalités intéressantes et utiles qui rendent le jeu encore plus captivant.
+I'm from France and I love Minecraft, especially plugins development. 
 
-- 💼 Développeur de plugins Minecraft
-- 🎮 Grand amateur de Minecraft
-- 🌍 Basé quelque part dans le monde cubique
+- 💼 Minecraft plugins development
+- 🎮 I love playing video games
 
-## Projets
+## Projects
 
-Voici quelques-uns de mes projets de plugins Minecraft :
+Here's my projects
 
-### [NomDuPlugin1](lien_vers_le_plugin1)
-Description brève du premier plugin. Ce plugin ajoute les fonctionnalités suivantes :
-- Fonctionnalité 1
-- Fonctionnalité 2
-- ...
+### [Vanish Plugin](https://github.com/Koopave/vanish-plugin).
+Plugin that allows players to vanish with differents commands.
 
-### [NomDuPlugin2](lien_vers_le_plugin2)
-Description brève du deuxième plugin. Ce plugin améliore l'expérience de jeu en introduisant :
-- Fonctionnalité A
-- Fonctionnalité B
-- ...
+### [Invsee Plugin](Coming soon)
 
-## Contributions
+## Values
 
-Je crois en la communauté open source et j'aime contribuer à d'autres projets quand j'en ai l'occasion. J'ai également reçu de l'aide et des conseils précieux de la part de nombreux développeurs talentueux.
+I love open-source community because sharing is freedom.
 
-## Me contacter
+## Contact me
 
-Si vous souhaitez en savoir plus sur mes plugins, discuter de Minecraft ou simplement dire bonjour, n'hésitez pas à me contacter :
-- Adresse e-mail : [votre@email.com](mailto:votre@email.com)
-- Twitter : [@VotreNomTwitter](https://twitter.com/VotreNomTwitter)
+You can contact me on :
+- E-mail : [koopa.tacos@gmail.com](mailto:koopa.tacos@gmail.com)
+- Twitter : [@Koopave](https://twitter.com/Koopave)
 
-N'hésitez pas à explorer mes projets, à ouvrir des problèmes, à proposer des améliorations ou à simplement me faire part de vos commentaires. Merci d'avoir visité mon profil !
+I
 
-> "Dans le monde des blocs, les possibilités sont infinies." - [VotreNom]
+> "Thanks for reading my README.md."
