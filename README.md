@@ -23,8 +23,9 @@ I love open-source community because sharing is freedom.
 ## Contact me
 
 You can contact me on :
-- E-mail : [koopa.tacos@gmail.com](mailto:koopa.tacos@gmail.com)
 - Twitter : [@Koopave](https://twitter.com/Koopave)
+- Discord : @Koopave
+- E-mail : [koopa.tacos@gmail.com](mailto:koopa.tacos@gmail.com)
 
 
 > Thanks for reading my README.md.
