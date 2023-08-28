@@ -27,4 +27,4 @@ You can contact me on :
 - Twitter : [@Koopave](https://twitter.com/Koopave)
 
 
-> "Thanks for reading my README.md."
+> Thanks for reading my README.md.
